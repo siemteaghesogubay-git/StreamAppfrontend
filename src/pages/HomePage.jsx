@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import api from '../services/api';
 import background from '../assets/home_bg.webp';
+import hero from '../assets/hero.png';
 
 const CATEGORIES = ['Alla', 'Music', 'Movie', 'Comedy', 'Mezmur'];
 
