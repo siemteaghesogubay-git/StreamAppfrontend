@@ -59,6 +59,7 @@ export default function UploadPage() {
             <option value="Movie">Movie</option>
             <option value="Comedy">Comedy</option>
             <option value="Mezmur">Mezmur</option>
+            <option value="Audio Book">Audio Book</option>
           </select>
 
           <label style={styles.label}>År</label>
